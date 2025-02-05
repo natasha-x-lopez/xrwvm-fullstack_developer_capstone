@@ -1,2 +1,4 @@
-Flask
-nltk
+Flask==2.0.1
+nltk==3.6.3
+Werkzeug==2.0.1
+
